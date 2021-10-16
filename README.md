@@ -17,3 +17,6 @@
 
  ##  Ejecutar:
 `sam local start-api --docker-network awslocal`
+
+## Probar Request
+`Entrar al archivo request.http`
