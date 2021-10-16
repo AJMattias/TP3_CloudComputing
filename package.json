@@ -1,0 +1,16 @@
+{
+  "name": "tp3",
+  "version": "1.0.0",
+  "description": "TP 3 de la catedrea Cloud Computing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alejandro Mattias",
+  "license": "",
+  "dependencies": {
+    "aws-sdk": "^2.1009.0",
+    "hash-generator": "^0.1.0"
+  }
+}
