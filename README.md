@@ -9,8 +9,8 @@
   docker run --rm -p 8000:8000 --network awslocal --name dynamodb amazon/dynamodb-local -jar DynamoDBLocal.jar -sharedDb
   sam local start-api --docker-network awslocal
   
-##Ingresar a:
+ ##Ingresar a:
 http://localhost:8000/shell
 
-##Ejecutar:
+ ##Ejecutar:
 sam local start-api --docker-network awslocal
