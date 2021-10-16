@@ -5,12 +5,12 @@ POST http://localhost:3000/envios
 Content-Type: application/json
 
 {
-    "destino": "Las Heras",
+    "destino": "MDZ",
     "email": "alejandro_mattias@gmail.com"
 }
 
 ###
-PUT http://localhost:3000/envios/iavgdh45/entregado
+PUT http://localhost:3000/envios/01/entregado
 
 ###
-GET http://localhost:3000/envio/iavgdh45
+GET http://localhost:3000/envio/01
